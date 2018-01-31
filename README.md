@@ -1,1 +1,1 @@
-# openode-hello-world
+# openode-hello-world-basic
